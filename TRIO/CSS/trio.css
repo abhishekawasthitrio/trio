@@ -1,0 +1,204 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+.topcontainer {
+  position: relative;
+  background-color: #e4f9f5;
+  height: 100%vh;
+}
+h1 {
+  margin: 0px;
+  padding-top: 150px;
+  color: #252525;
+
+  font-family: "Sacramento", cursive;
+  font-size: 100px;
+}
+
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+p {
+  margin-top: 10px;
+  
+}
+.para{
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight:500;
+}
+
+.cloud {
+  position: absolute;
+  left: 100px;
+  height: 300px;
+  width: 350px;
+  top: 40px;
+}
+.mountain {
+  position: absolute;
+  left: 900px;
+}
+.bird {
+  position: relative;
+  left: 400px;
+}
+.pankh {
+  margin: 0px;
+  height: 400px;
+  width: 200px;
+  left: 200px;
+  position: absolute;
+}
+.profile {
+  position: absolute;
+  left: 300px;
+  top: 600px;
+}
+.adeem {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  
+}
+.abhishek {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.mohit {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+.adeem:hover{
+  width: 230px;
+  height: 230px;
+}  
+
+.abhishek:hover{
+
+  width: 230px;
+  height: 230px;
+}
+
+.mohit:hover{
+
+  width: 230px;
+  height: 230px;
+}
+
+.Ad {
+  width: 270px;
+  padding: 50px;
+  display: inline-block;
+  background: #e4f9f5;
+  border-radius: 20%;
+  margin: 30px;
+}
+
+.Ab {
+  width: 270px;
+  padding: 50px;
+  padding: 50px;
+  display: inline-block;
+  background: #e4f9f5;
+  border-radius: 20%;
+  margin: 30px;
+}
+
+.Mo {
+  width: 270px;
+  padding: 50px;
+  padding: 50px;
+  display: inline-block;
+  background: #e4f9f5;
+  border-radius: 20%;
+  margin: 30px;
+}
+
+.intro {
+  width: 20%;
+  margin: 0 auto;
+}
+
+.middle-container {
+  padding-top: 70px;
+}
+
+hr{
+  border: dotted #acdbdb 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+.message{
+  width: 25%;
+  margin: 40px auto 60px ;
+}
+
+  .btn {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .bottom-container{
+    background-color: #66bfbf;
+    width: 100%;
+    margin-top: 50px;
+    padding: 30PX 0 20px;
+   
+  }
+  .fb{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+     }
+  .insta{
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+  }
+  .tele{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+  }
+  .fb:hover{
+    height: 35px;
+    width: 35px;
+  }
+
+  .insta:hover{
+    height: 35px;
+    width: 35px;
+  }
+
+  .tele:hover{
+    height: 35px;
+    width: 35px;
+  }
